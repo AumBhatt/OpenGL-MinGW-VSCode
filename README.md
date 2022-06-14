@@ -1,0 +1,2 @@
+# <p align="center"><img height=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/330px-OpenGL_logo.svg.png" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img height=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img height=100 src="https://www.mingw-w64.org/logo.svg" /> </p>
+A template repo for a quick initial environment setup for compiling OpenGL in MinGW (g++ for windows) and VSCode.
